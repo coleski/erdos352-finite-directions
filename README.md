@@ -5,6 +5,8 @@ This package records a proof-method obstruction for
 solve or refute the original problem, which permits triangle sides in every
 direction.
 
+Jig statement: https://jig.so/p/132?s=5
+
 ## Theorem
 
 For every finite collection `D` of unoriented line directions and every
@@ -40,4 +42,3 @@ quantitative error margins, orientations, and same-band degeneracies.
 This is AI-assisted research produced with Codex and independently reviewed
 by a separate Codex agent. No claim of external peer review or exhaustive
 worldwide novelty is made. The unrestricted Erdős #352 remains open.
-
